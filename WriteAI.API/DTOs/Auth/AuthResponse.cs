@@ -1,4 +1,3 @@
-// DTOs/Auth/AuthResponse.cs
 namespace WriteAI.API.DTOs.Auth;
 
 public class AuthResponse

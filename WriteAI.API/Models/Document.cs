@@ -1,4 +1,3 @@
-// Models/Document.cs
 namespace WriteAI.API.Models;
 
 public class Document

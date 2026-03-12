@@ -1,4 +1,3 @@
-// src/components/Editor/AIToolbar.tsx
 "use client";
 
 import { useState } from "react";

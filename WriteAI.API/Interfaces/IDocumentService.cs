@@ -1,4 +1,3 @@
-// Interfaces/IDocumentService.cs
 using WriteAI.API.DTOs.Documents;
 
 namespace WriteAI.API.Interfaces;

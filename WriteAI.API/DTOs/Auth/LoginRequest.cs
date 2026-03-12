@@ -1,4 +1,3 @@
-// DTOs/Auth/LoginRequest.cs
 namespace WriteAI.API.DTOs.Auth;
 
 public class LoginRequest

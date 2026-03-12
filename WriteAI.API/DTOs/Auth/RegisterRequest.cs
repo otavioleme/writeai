@@ -1,4 +1,3 @@
-// DTOs/Auth/RegisterRequest.cs
 namespace WriteAI.API.DTOs.Auth;
 
 public class RegisterRequest

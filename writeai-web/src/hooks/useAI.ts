@@ -1,4 +1,3 @@
-// src/hooks/useAI.ts
 import { useState } from "react";
 
 type AIAction = "improve" | "summarize" | "ideas";

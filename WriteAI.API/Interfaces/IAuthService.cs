@@ -1,4 +1,3 @@
-// Interfaces/IAuthService.cs
 using WriteAI.API.DTOs.Auth;
 
 namespace WriteAI.API.Interfaces;

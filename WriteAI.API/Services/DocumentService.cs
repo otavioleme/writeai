@@ -1,4 +1,3 @@
-// Services/DocumentService.cs
 using Microsoft.EntityFrameworkCore;
 using WriteAI.API.Data;
 using WriteAI.API.DTOs.Documents;

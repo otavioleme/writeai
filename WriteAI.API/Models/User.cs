@@ -1,4 +1,3 @@
-// Models/User.cs
 namespace WriteAI.API.Models;
 
 public class User

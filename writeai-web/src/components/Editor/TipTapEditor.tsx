@@ -1,4 +1,3 @@
-// src/components/Editor/TipTapEditor.tsx
 "use client";
 
 import { useEditor, EditorContent } from "@tiptap/react";

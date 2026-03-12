@@ -1,4 +1,3 @@
-// Controllers/AIController.cs
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using WriteAI.API.Interfaces;

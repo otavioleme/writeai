@@ -1,4 +1,3 @@
-// Controllers/AuthController.cs
 using Microsoft.AspNetCore.Mvc;
 using WriteAI.API.DTOs.Auth;
 using WriteAI.API.Interfaces;

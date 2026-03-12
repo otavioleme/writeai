@@ -1,4 +1,3 @@
-// DTOs/Documents/DocumentResponse.cs
 namespace WriteAI.API.DTOs.Documents;
 
 public class DocumentResponse

@@ -1,4 +1,3 @@
-// src/hooks/useDarkMode.ts
 import { useEffect, useState } from "react";
 
 export function useDarkMode() {

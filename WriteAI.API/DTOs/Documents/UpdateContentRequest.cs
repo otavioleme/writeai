@@ -1,4 +1,3 @@
-// DTOs/Documents/UpdateContentRequest.cs
 namespace WriteAI.API.DTOs.Documents;
 
 public class UpdateContentRequest

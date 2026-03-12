@@ -1,4 +1,3 @@
-// Interfaces/IGeminiService.cs
 namespace WriteAI.API.Interfaces;
 
 public interface IGeminiService
