@@ -4,9 +4,9 @@ EXPOSE 8080
 
 FROM mcr.microsoft.com/dotnet/sdk:10.0 AS build
 WORKDIR /src
-COPY ["WriteAI.API.csproj", "."]
+COPY ["WriteAI.API/WriteAI.API.csproj", "."]
 RUN dotnet restore
-COPY . .
+COPY WriteAI.API/. .
 RUN dotnet publish -c Release -o /app/publish
 
 FROM base AS final
