@@ -45,7 +45,11 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend", policy =>
     {
-        policy.WithOrigins("http://localhost:3000")
+        policy.WithOrigins(
+                "http://localhost:3000",
+                "https://writeai-lyart.vercel.app",
+                "https://writeai-git-main-otaviolemes-projects.vercel.app"
+              )
               .AllowAnyHeader()
               .AllowAnyMethod();
     });
