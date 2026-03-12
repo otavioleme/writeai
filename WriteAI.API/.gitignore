@@ -1,0 +1,15 @@
+# Secrets 
+appsettings.Development.json
+appsettings.Production.json
+
+# Build
+bin/
+obj/
+
+# VS/Rider
+.vs/
+.idea/
+*.user
+
+# Logs
+*.log

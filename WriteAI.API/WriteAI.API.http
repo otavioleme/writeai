@@ -1,0 +1,6 @@
+@WriteAI.API_HostAddress = http://localhost:5028
+
+GET {{WriteAI.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
