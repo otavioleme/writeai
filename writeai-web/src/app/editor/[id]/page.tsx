@@ -142,16 +142,16 @@ export default function EditorPage() {
     }
   };
 
-  const handleAIResult = (result: string) => {
-    const htmlResult = result
-      .split("\n")
-      .filter((line) => line.trim())
-      .map((line) => `<p>${line}</p>`)
-      .join("");
-    const newContent = content + htmlResult;
-    setContent(newContent);
-    editorInstance?.setContent(newContent);
-  };
+const handleAIResult = (result: string) => {
+  const htmlResult = result
+    .split("\n")
+    .filter((line) => line.trim())
+    .map((line) => `<p>${line}</p>`)
+    .join("");
+  const newContent = content + "<p><br></p>" + htmlResult;
+  setContent(newContent);
+  editorInstance?.setContent(newContent);
+};
 
   // Colors
   const textPrimary = isDark ? "#f1f5f9" : "#0f172a";
