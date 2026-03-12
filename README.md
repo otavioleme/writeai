@@ -2,6 +2,8 @@
 
 A full-stack AI writing assistant that helps you write, improve, summarize and expand your documents using Google Gemini.
 
+![Demo](screenshots/demo.gif)
+
 ## 🌐 Live Demo
 
 **[https://writeai-lyart.vercel.app](https://writeai-lyart.vercel.app)**
