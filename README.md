@@ -5,6 +5,7 @@ A full-stack AI writing assistant that helps you write, improve, summarize and e
 ![Demo](screenshots/demo.gif)
 
 ## 🌐 Live Demo
+🚀 **Use the app:** 
 
 **[https://writeai-lyart.vercel.app](https://writeai-lyart.vercel.app)**
 
